@@ -1,0 +1,15 @@
+.hideme {
+  display: none;
+}
+
+.running {
+  background: #FFDDAA;
+}
+
+.passed {
+  background: #AAFFAA;
+}
+
+.failed {
+  background: #FFAAAA;
+}
